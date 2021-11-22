@@ -1,38 +1,59 @@
-.App {
+* {
+  font-family: "Courgette", cursive;
+  margin: 20px;
+}
+
+body {
   text-align: center;
+  background-color: rgb(255, 227, 231);
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+button {
+  background-color: rgb(227, 255, 255);
+  width: 150px;
+  margin: auto;
+  margin-top: 50px;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
-}
-
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
+.container {
+  display: grid;
+  align-content: center;
   justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+  margin: auto;
 }
 
-.App-link {
-  color: #61dafb;
+.bgGlobal {
+  display: flex;
+  align-content: center;
+  justify-content: center;
+  margin: auto;
+  height: 300px;
+  width: 300px;
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.bgChooser1 {
+  background-image: url("bg1.jpg");
+}
+
+.bgChooser2 {
+  background-image: url("bg2.jpg");
+}
+
+.bgChooser3 {
+  background-image: url("bg3.jpg");
+}
+
+.bgChooser4 {
+  background-image: url("bg4.jpg");
+}
+
+.bgChooser5 {
+  background-image: url("bg5.jpg");
+}
+
+mark {
+  background-color: white;
+  line-height: 2.5;
 }
