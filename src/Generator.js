@@ -1,7 +1,7 @@
 import { useState } from "react";
 
 const aPhrases = ['forwards', 'backwards', 'up', 'down', 'life', 'the future', 'the past', 'happiness', 'sadness', 'serenity']
-const bPhrases = ['forwards', 'backwards', 'up', 'down', 'to make amends', 'to heal your soul', 'to fly like a bird', 'set yourself free', 'to fulfill your dreams', 'to let go']
+const bPhrases = ['forwards', 'backwards', 'up', 'down', 'to make amends', 'to heal your soul', 'to fly like a bird', 'to set yourself free', 'to fulfill your dreams', 'to let go']
 
 
 export default function Generator () {
