@@ -1,5 +1,8 @@
 * {
   font-family: "Courgette", cursive;
+}
+
+.spHighlight {
   margin: 20px;
 }
 
@@ -13,13 +16,16 @@ button {
   width: 150px;
   margin: auto;
   margin-top: 50px;
+  color: black;
+  font-weight: bold;
 }
 
-.container {
+.containerAll {
   display: grid;
   align-content: center;
   justify-content: center;
   margin: auto;
+  width: 350px;
 }
 
 .bgGlobal {

@@ -4,8 +4,8 @@ import Generator from './Generator';
 function App() {
   return (
     <>
-    <div className="container">
-   <h1>welcome to the adult meme quote generator</h1> 
+    <div className="containerAll">
+   <h2>welcome to the adult meme quote generator</h2> 
    <Generator />
    </div>
     </>
