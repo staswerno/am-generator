@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/am-generator/static/css/main.69c8f4f0.chunk.css",
-    "main.js": "/am-generator/static/js/main.40f49503.chunk.js",
-    "main.js.map": "/am-generator/static/js/main.40f49503.chunk.js.map",
+    "main.css": "/am-generator/static/css/main.8b6df664.chunk.css",
+    "main.js": "/am-generator/static/js/main.e9f73467.chunk.js",
+    "main.js.map": "/am-generator/static/js/main.e9f73467.chunk.js.map",
     "runtime-main.js": "/am-generator/static/js/runtime-main.e11f7f1d.js",
     "runtime-main.js.map": "/am-generator/static/js/runtime-main.e11f7f1d.js.map",
     "static/js/2.a18228f0.chunk.js": "/am-generator/static/js/2.a18228f0.chunk.js",
     "static/js/2.a18228f0.chunk.js.map": "/am-generator/static/js/2.a18228f0.chunk.js.map",
     "index.html": "/am-generator/index.html",
-    "static/css/main.69c8f4f0.chunk.css.map": "/am-generator/static/css/main.69c8f4f0.chunk.css.map",
+    "static/css/main.8b6df664.chunk.css.map": "/am-generator/static/css/main.8b6df664.chunk.css.map",
     "static/js/2.a18228f0.chunk.js.LICENSE.txt": "/am-generator/static/js/2.a18228f0.chunk.js.LICENSE.txt",
     "static/media/App.css": "/am-generator/static/media/bg5.b619f3a5.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.e11f7f1d.js",
     "static/js/2.a18228f0.chunk.js",
-    "static/css/main.69c8f4f0.chunk.css",
-    "static/js/main.40f49503.chunk.js"
+    "static/css/main.8b6df664.chunk.css",
+    "static/js/main.e9f73467.chunk.js"
   ]
 }
